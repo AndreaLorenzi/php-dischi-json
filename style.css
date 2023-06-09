@@ -1,0 +1,26 @@
+/* Header */
+header {
+  height: 75px;
+  background-color: #06131f;
+}
+
+header .container {
+  height: 100%;
+}
+
+header i {
+  color: #1db954;
+  font-size: 40px;
+}
+
+/* Main */
+main {
+  height: calc(100vh - 75px);
+  background-color: #1d2d3c;
+}
+
+main .card {
+  height: 100%;
+  background-color: #112030;
+  color: white;
+}
